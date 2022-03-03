@@ -1,6 +1,6 @@
 // 3.9-home work \\
 
-var newArray = [3.02, -3.65, 5, -9];
+var newArray = [3.02 , -3.65 , 5 , -9];
 
 function nNumbers (aOfNumbers) {
 
@@ -22,4 +22,4 @@ function nNumbers (aOfNumbers) {
 }
 
 console.log(nNumbers(newArray));
-console.log(alert(nNumbers(newArray)) );
+console.log(alert( 'kiritildi = [' + newArray + ']' + ' natija = [' + nNumbers(newArray) + ']'));
